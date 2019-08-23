@@ -4,3 +4,4 @@ lecture_exercises/*.json
 *.json
 *.csv
 *.log
+geckodriver
