@@ -3,3 +3,4 @@ lecture_exercises/*.csv
 lecture_exercises/*.json
 *.json
 *.csv
+*.log
